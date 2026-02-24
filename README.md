@@ -1,4 +1,4 @@
-# 🤖 Claude Code Agent Prompts
+# 🤖 AI Assistant Agent Prompts
 
 **A reusable library of specialized AI agent prompts for multi-agent software development with Claude Code.**
 
